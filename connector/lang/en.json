@@ -1,0 +1,12 @@
+{
+    "m_title": "SEPL Connector",
+    "m_descr": "Connects to the SEPL-Platform",
+    "l_sepl_url": "SEPL Connector URL",
+    "l_sepl_url_help": "Url to the sepl connector serverside e.g. localhost:8080",
+    "l_user": "User-Name",
+    "h_user": "user name (because of the missing user/owner system, this value will currently not be evaluated)",
+    "l_pw": "Password",
+    "h_pw": "password (because of the missing user/owner system, this value will currently not be evaluated)",
+    "l_startupdelay": "Startup-Delay",
+    "h_startupdelay": "delays startup of connector, to give zway-server time to initialize all devices before"
+}
