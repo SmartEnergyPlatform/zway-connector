@@ -1,4 +1,4 @@
-FROM resin/raspberrypi3-debian
+FROM balenalib/raspberrypi3-debian
 
 RUN apt-get -y update
 RUN apt-get -qy install libxml2 libarchive-dev curl
